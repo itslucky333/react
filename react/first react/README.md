@@ -1,0 +1,1 @@
+in this file we learned about render in react. 
