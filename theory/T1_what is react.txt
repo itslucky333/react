@@ -1,1 +1,5 @@
 React is the open source javascript framework developed by facebook. It helps us to create user interface and web application quickly. It creates significant user interface with less code.
+
+React was released in 2013
+It was created by Jordan Walke
+Maintained by facebook
