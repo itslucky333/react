@@ -1,0 +1,1 @@
+React is the open source javascript framework developed by facebook. It helps us to create user interface and web application quickly. It creates significant user interface with less code.
