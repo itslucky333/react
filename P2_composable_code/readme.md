@@ -4,3 +4,4 @@ class name is used insted of class <br>
 components are made in PascalCase <br>
 
 ###### mistake can be made without enclosing everything within a same tag in render
+### component must be in PascalCase
