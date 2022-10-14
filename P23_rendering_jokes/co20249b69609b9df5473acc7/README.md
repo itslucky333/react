@@ -1,28 +1,19 @@
-# co20249b69609b9df5473acc7
+### Quizes
 
-Quick start:
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+1. What does the `.map()` array method do?
+Returns a new array. Whatever gets returned from the callback
+function provided is placed at the same index in the new array.
+Usually we take the items from the original array and modify them
+in some way.
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+2. What do we usually use `.map()` for in React?
+Convert an array of raw data into an array of JSX elements
+that can be displayed on the page.
 
-```
-$ yarn watch # npm run watch
-```
 
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+3. Why is using `.map()` better than just creating the components
+   manually by typing them out?
+It makes our code more "self-sustaining" - not requiring
+additional changes whenever the data changes.
