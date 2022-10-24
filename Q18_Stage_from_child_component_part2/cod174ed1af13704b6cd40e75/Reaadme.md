@@ -1,0 +1,1 @@
+IN this program we learnt about how to pass values and function through the parent and child components.

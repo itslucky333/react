@@ -1,0 +1,1 @@
+IN this program we learnt about how a sibling components cant share data. To share the data there must be in parent component. 
