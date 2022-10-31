@@ -1,0 +1,1 @@
+In this program we learnt about how a state can be used in form which tracks all those changes, We are using seperate function to track the changes of first and last name, it can work out when we have few fields of input but will not work out with 50 input fields, In next episode of react we are learning about how we can combine those fields to a single variable.
